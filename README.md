@@ -16,4 +16,4 @@ Other features are coming soon.
 <h4>Server side</h4>
 ==> nodemon server
 
-And you're ready to go .. ;)
+<h2>And you're ready to go ! ;) </h2>
